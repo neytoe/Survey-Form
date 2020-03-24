@@ -1,0 +1,19 @@
+body{
+  font-family: 'Josefin Slab', serif;
+ background-image: url(https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+ background-size: cover;
+ overflow: hidden;
+ 
+
+}
+
+#firstdiv{
+  text-align: center;
+}
+
+form{
+  max-width: 50%;
+  margin: auto;
+  background-color:#e1dee3 ;
+  text-align: center;
+}
